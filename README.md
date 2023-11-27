@@ -21,7 +21,7 @@
 - 📚 Certified in various programming courses and essentials
 - 💡 Always eager to take on new challenges and projects
 - 👁‍🗨 What's Special about me? <br>
-  Wil invest my Best to delivery the Best Outputs
+  Will invest my Best to delivery the Best Outputs
 
 ## Status of my Current Profession
 
