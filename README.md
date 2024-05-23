@@ -33,6 +33,10 @@
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/kishore-thalisetty-14090926b/)
 
  ## Projects
+ - [StayEasy-Hotel_Booking_System](https://github.com/kishoretalisetty/StayEasy-Hotel_Booking_System-)
+ - [Book_For_Rent](https://github.com/kishoretalisetty/Book_For_Rent)
+ - [Learning-Management-System-LMS](https://github.com/kishoretalisetty/kishoretalisetty-Learning-Management-System-LMS-)
+ - [Web_Scraper](https://github.com/kishoretalisetty/Web_Scraper)
  - [Food_Ordering_Application-QEats](https://github.com/kishoretalisetty/Food_Ordering_Application-QEats)
  - [Stock_Portfolio_Analyzer-QmoneyStock_Portfolio_Analyzer-Qmoney](https://github.com/kishoretalisetty/Stock_Portfolio_Analyzer-Qmoney)
  - [Meme_Share_App_Backend ](https://github.com/kishoretalisetty/Meme_Share_App_Backend)
