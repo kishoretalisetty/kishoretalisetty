@@ -92,7 +92,7 @@
 <h2 align="left">💼 My Tech Corner</h2>
 
 <h4><b>Checkout My Coding Profile, Here🤝</b></h4> 
-  
+- [**Crio.do**](https://www.crio.do/learn/portfolio/kishorethalisetty/) <br>
 - [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/talisettykishore333) <br>
 - [**LeetCode**](https://leetcode.com/Kishore-Thalisetty/) <br>
 - [**CodingNinjas**](https://www.codingninjas.com/studio/profile/0c653674-d1e2-4506-a8d2-c298beb7f4be)<br>
