@@ -34,7 +34,7 @@
 
  ## Projects
  - [StayEasy-Hotel_Booking_System](https://github.com/kishoretalisetty/StayEasy-Hotel_Booking_System-)
- - [Book_For_Rent](https://github.com/kishoretalisetty/Book_For_Rent)
+ - [Book_Rental_System](https://github.com/kishoretalisetty/Book_For_Rent)
  - [Learning-Management-System-LMS](https://github.com/kishoretalisetty/kishoretalisetty-Learning-Management-System-LMS-)
  - [Web_Scraper](https://github.com/kishoretalisetty/Web_Scraper)
  - [Food_Ordering_Application-QEats](https://github.com/kishoretalisetty/Food_Ordering_Application-QEats)
